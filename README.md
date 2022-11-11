@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @EstefaniEller
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
 #### Oiie! Eu sou a Estéfani Eller
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=euphlduque&color=yellow" alt="Profile views" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=EstefaniEller&color=yellow" alt="Profile views" /> </p>
 
 ##### Graduando em Sistemas de Informação na Universidade Federal do Espírito Santo.
 
