@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=EstefaniEller&color=yellow" alt="Profile views" /> </p>
 
-##### Graduando em Sistemas de Informação na Universidade Federal do Espírito Santo.
+##### Graduanda em Sistemas de Informação na Universidade Federal do Espírito Santo.
 
 * * * 
 
