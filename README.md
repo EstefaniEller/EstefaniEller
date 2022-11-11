@@ -21,23 +21,23 @@
 
 <div>
  <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=euphduque&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="EstefaniEller's stats"/>
-<img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=euphduque&theme=dark&hide_border=true" alt="EstefaniEller's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euphduque&layout=compact&theme=dark&langs_count=10&hide_border=true&count_private=true" alt="EstefaniEller's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EstefaniEller&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="EstefaniEller's stats"/>
+<img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=EstefaniEller&theme=dark&hide_border=true" alt="EstefaniEller's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstefaniEller&layout=compact&theme=dark&langs_count=10&hide_border=true&count_private=true" alt="EstefaniEller's most languages"/>
 </p>
 </div>
  
 * * * 
 ## Tecnologias que eu utilizo no meu dia
 <div style="display: inline_block"><br>
-  <img align="center" alt="euphlduque-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="EstefaniEller-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
   
 * * *
 
 <div>
 
-  [![Snake animation](https://github.com/EstefaniEller/EstefaniEller/blob/output/github-contribution-grid-snake.svg)](https://github.com/euphduque)
+  [![Snake animation](https://github.com/EstefaniEller/EstefaniEller/blob/output/github-contribution-grid-snake.svg)](https://github.com/EstefaniEller)
 
 </div>
  
